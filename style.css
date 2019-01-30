@@ -6,6 +6,7 @@ body {
   line-height: 1.4em;
   font-weight: 300;
   display: block;
+  background-image: linear-gradient(rgba(50,50,50,0.2), rgba(50,50,50,0.2)), url("images/.jpg");
 }
 
 h1 {
@@ -61,7 +62,6 @@ a:hover {
   opacity: 0.4;
 }
 
-
 #img-profile:hover {
   opacity: 0.7;
   height: 170px;
@@ -91,7 +91,8 @@ a:hover {
   margin-bottom: 20px;
   border-radius: 8px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
-  border: 8px solid #F8F9FA; /* */
+  border: 8px solid #CCE6F4; /* */
+  background-color: white;
 }
 
 .text-center {
@@ -117,4 +118,3 @@ a:hover {
 .color-white {
   color: white;
 }
-
