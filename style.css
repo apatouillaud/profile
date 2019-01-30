@@ -1,5 +1,5 @@
 body {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Slabo 27px', serif;
   color: rgb(80,80,80);
   font-size: 15px;
   line-height: 1.4em;
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2, h3, h4 {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Slabo 27px', serif;
   color: rgb(30,30,30);
   font-size: 20px;
   font-weight: 500;
