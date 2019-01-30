@@ -6,6 +6,7 @@ body {
   font-weight: 300;
   display: block;
   background-image: linear-gradient(rgba(50,50,50,0.2), rgba(50,50,50,0.2)), url("images/Brique.jpg");
+  background-size: cover;
 }
 
 h1 {
