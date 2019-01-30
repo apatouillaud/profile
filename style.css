@@ -24,7 +24,7 @@ h2, h3, h4 {
 
 p {
   color: rgb(80,80,80);
-  font-weight: 900;
+  font-weight: 600;
 }
 
 li {
@@ -112,5 +112,9 @@ a:hover {
 
 .center-element {
   margin: 0px auto;
+}
+
+.color-white {
+  color: white;
 }
 
