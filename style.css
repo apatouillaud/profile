@@ -89,7 +89,7 @@ a:hover {
 .card {
   padding: 20px;
   margin-bottom: 20px;
-  border-radius: 4px;
+  border-radius: 8px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
   border: 8px solid #F8F9FA; /* */
 }
