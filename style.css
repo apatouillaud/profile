@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open-sans', sans-serif;
+  font-family: 'Indie Flower', cursive;
   color: rgb(80,80,80);
   font-size: 15px;
   line-height: 1.4em;
@@ -10,14 +10,14 @@ body {
 }
 
 h1 {
-  font-family:'Roboto', sans-serif;
+  font-family: 'Lobster', cursive;
   color: rgb(20,20,20);
   font-size: 25px;
   font-weight: 700;
 }
 
 h2, h3, h4 {
-  font-family:'Roboto', sans-serif;
+  font-family: 'Pacifico', cursive;
   color: rgb(30,30,30);
   font-size: 20px;
   font-weight: 500;
