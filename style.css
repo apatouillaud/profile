@@ -23,7 +23,7 @@ h2, h3, h4 {
 }
 
 p {
-  color: rgb(210,210,210)
+  color: rgb(90,90,90)
   font-weight: 900;
 }
 
@@ -91,7 +91,7 @@ a:hover {
     margin-bottom: 20px;
     border-radius: 4px;
     box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
-    border: 4px solid #F8F9FA;
+    border: 8px solid #F8F9FA;
 }
 
 .text-center {
