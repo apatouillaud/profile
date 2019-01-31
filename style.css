@@ -54,6 +54,11 @@ a:hover {
   transition-duration: 0.5s;
 }
 
+i {
+  font-size: 32px;
+  rgb(60,60,60);
+}
+
 #img-profile {
   height: 150px;
   width: 150px;
